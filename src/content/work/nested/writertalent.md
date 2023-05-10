@@ -153,5 +153,5 @@ Voici ci dessous quelques extraits de code :
 
 #### Le lien github du projet : 
 
-- Repository Back
-- Repository Front
+- [Lien vers le repository Back](https://github.com/Gauthier14/WriterTalent-back "Lien vers le repository Back")
+- [Lien vers le repository Front](https://github.com/Gauthier14/WriterTalent-front "Lien vers le repository Front")
