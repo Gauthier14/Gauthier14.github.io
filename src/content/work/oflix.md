@@ -12,12 +12,12 @@ tags:
 ---
 
 Principales caractéristiques :  
+
 - Projet codé sous **Symfony** suivant le **modèle MVC**
 - Pages 100% dynamiques avec requetes vers la **base de données**
 - Mise en place d'un système d'authentification et d'autorisation
 - **Appels API** afin de récupérer les affiches des films/séries
 - Backoffice **CRUD** **sécurisé**
-
 
 ![page-film](/assets/oflix/film.png)
 ![page-favoris](/assets/oflix/favoris.png)
