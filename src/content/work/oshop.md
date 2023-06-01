@@ -19,7 +19,7 @@ Le site est doté d'un interface **backoffice** sécurisé permettant aux admini
 
 Principales caractéristiques :  
 - Projet codé sous **Symfony** suivant le **modèle MVC**
-- Pages 100% dynamiques avec requetes vers la **base de données**
+- Pages 100% dynamiques avec requêtes vers la **base de données**
 - Mise en place d'un système d'authentification et d'autorisation
 - Backoffice **CRUD** **sécurisé**
 
@@ -28,3 +28,7 @@ Principales caractéristiques :
 ![page-list](/assets/oshop/page-liste.png)
 ![page-produit](/assets/oshop/page-produit.png)
 ![backoffice](/assets/oshop/backoffice.png)
+
+<video width="320" height="240" controls>
+  <source src="/assets/oshop/démo.mp4" type="video/mp4">
+</video>
