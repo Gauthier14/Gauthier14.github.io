@@ -29,6 +29,7 @@ Principales caractéristiques :
 ![page-produit](/assets/oshop/page-produit.png)
 ![backoffice](/assets/oshop/backoffice.png)
 
-<video width="320" height="240" controls>
-  <source src="/assets/oshop/démo.mp4" type="video/mp4">
-</video>
+
+#### Le lien github du projet
+
+[Lien vers le repository](https://github.com/Gauthier14/Oshop "Lien vers le repository")

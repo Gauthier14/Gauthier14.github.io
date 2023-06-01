@@ -22,4 +22,8 @@ Voici ici une application d'une To Do List
 
 <video width="800" height="500" controls>
   <source src="/assets/ToDoList/démo.mp4" type="video/mp4">
-</video>
+</video>  
+
+#### Le lien github du projet
+
+[Lien vers le repository](https://github.com/Gauthier14/To-do-list---React "Lien vers le repository")

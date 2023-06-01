@@ -21,4 +21,8 @@ Principales caractéristiques :
 
 ![page-film](/assets/oflix/film.png)
 ![page-favoris](/assets/oflix/favoris.png)
-![backoffice](/assets/oflix/edit.png)
+![backoffice](/assets/oflix/edit.png)  
+
+#### Le lien github du projet
+
+[Lien vers le repository](https://github.com/Gauthier14/Oflix "Lien vers le repository")
